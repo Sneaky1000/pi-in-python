@@ -1,3 +1,5 @@
 # pi-in-python
 
-I graphed Pi in Python while in-between projects because I felt like it. Here is the result.
+I used an equation to demonstrate and showcase the irrationality of Pi in Python.
+
+Note: This project will not be updated.
